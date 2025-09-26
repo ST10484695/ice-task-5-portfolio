@@ -11,13 +11,14 @@
 
 <img width="1013" height="626" alt="Screenshot 2025-09-26 152432" src="https://github.com/user-attachments/assets/3a4f2be3-adbe-498b-b508-d1e7cbca5c08" />
 
+<br>
 
 <img width="1001" height="627" alt="Screenshot 2025-09-26 152509" src="https://github.com/user-attachments/assets/5efda4ca-3a8c-41eb-9e96-76e32eb4c7ae" />
 
-What I Learned
+**What I Learned:**
 - A new skill i learnt from doing this website was to add an icon next to the website links and tags.
 
-If I Had More Time…
+**If I Had More Time:**
 - If i had more time i would have personalised this according to the person, meaning i would have added neon borders with a more creative and bold background according to the user and their traits.
 
   ### Reference:
